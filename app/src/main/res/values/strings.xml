@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TaxiAdminTest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_ether">Эфир</string>
+    <string name="tab_advance">Предв.</string>
+    <string name="tab_order">Мои зак.</string>
+
+    <string name="latlon_dummy">0.0/0.0</string>
+    <string name="date_dummy">01.01.2018</string>
+
+    <string name="list_empty">Пусто..\nСовершенно ничего!</string>
+
+    <string name="new_order_title">Новый заказ</string>
+    <string name="new_order_message">Открыть для просмотра</string>
+
+</resources>

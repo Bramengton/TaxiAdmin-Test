@@ -1,0 +1,14 @@
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+        android:color="?android:attr/colorAccent">
+        <!--android:color="@color/Blue.Light_Primary">-->
+    <item>
+        <selector>
+            <!-- pressed state -->
+            <item android:state_pressed="true" android:drawable="@color/defPressedColor"/>
+            <!-- focused state -->
+            <item android:state_focused="true" android:drawable="@color/defFocusedColor"/>
+            <!-- normal state -->
+            <item android:drawable="@android:color/transparent" />
+        </selector>
+    </item>
+</ripple>

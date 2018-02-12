@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defPressedColor">#ee546E7A</color>
+    <color name="defFocusedColor">#99546E7A</color>
+    <color name="defBackgroundColor">#212121</color>
+</resources>

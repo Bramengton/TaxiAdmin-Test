@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="app_bar_height">90dp</dimen>
+    <dimen name="card_view_horizontal_margin">8dp</dimen>
+    <dimen name="card_view_vertical_margin">2dp</dimen>
+    <dimen name="card_view_corner_radius">2dp</dimen>
+    <dimen name="card_inner_padding">2dp</dimen>
+
+</resources>
